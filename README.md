@@ -1,2 +1,2 @@
-# history
+# History
 My history of coding.
